@@ -104,4 +104,27 @@ yarn-error.log*
 
 # 기타
 .cache/
-.local/ 
+.local/
+
+# Spark 관련
+spark-warehouse/
+derby.log
+metastore_db/
+
+# 데이터 파일들 (큰 파일들)
+data/*.csv
+data/*.json
+data/*.parquet
+data/*.avro
+data/*.orc
+data/sample_*
+data/large_*
+
+# 로컬 설정 파일들
+config/local.yml
+config/local.json
+config/local.ini
+
+# 개인 노트북 파일들 (선택적)
+# notebooks/personal/
+# notebooks/temp/ 
