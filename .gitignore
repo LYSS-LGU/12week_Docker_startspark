@@ -123,3 +123,7 @@ cython_debug/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Custom ignores
+data/
+*.zip
