@@ -1,4 +1,3 @@
-# C:/githome/12week_Docker_startspark/spark_miniproject/final_pet_supplies_report.md
 # AliExpress 반려동물 용품 데이터 분석 및 예측 모델링 최종 보고서
 
 **프로젝트 목표:** AliExpress의 반려동물 용품 데이터를 심층 분석하여 인기 상품의 핵심 특징을 파악하고, 이를 바탕으로 상품의 성공 가능성을 예측하는 머신러닝 모델을 구축하여 실질적인 비즈니스 전략을 제시한다.
